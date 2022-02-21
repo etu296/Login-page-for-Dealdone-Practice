@@ -1,0 +1,65 @@
+body{
+    
+    background-image: url("bg.png");
+    background-size: 1439px  365.37px  ;
+    background-repeat: no-repeat;
+    background-position: 230% 230%;
+  
+}
+.text{
+    float: right;
+}
+.btn{
+    padding: 9px 25px;
+    background-color:white;
+    border: 1px solid white;
+    border-radius: 2px;
+    color: blue;
+    margin-left: 10px;
+    box-shadow: 0px 0px 5px rgb(209, 203, 203), 0px 0px 10px rgb(216, 211, 211),0px 0px 15px rgb(233, 231, 231);
+    
+}
+.form{
+    text-align: center;
+    height: 400px;
+    width: 410px;
+    margin-top: 10px;
+    margin-left: 33%;
+    background-color:white;
+    box-shadow: 0px 0px 5px rgb(216, 211, 211), 0px 0px 10px white,0px 0px 15px white;
+    
+}
+.txt{
+    margin-top: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2vw;
+   
+
+}
+.t{
+   margin-right: 250px;
+}
+.t1{
+    margin-right: 230px;
+ }
+.userinput{
+    
+    padding: 9px 65px;
+    border: 2px solid rgb(16, 196, 241);
+}
+.pass{
+    padding: 9px 65px;
+    border: 2px solid rgb(16, 196, 241);
+
+}
+.button{
+    margin-top: 20px;
+    width:74%;
+    height: 10%;
+    background-color:blue;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-left: 10px;
+}
